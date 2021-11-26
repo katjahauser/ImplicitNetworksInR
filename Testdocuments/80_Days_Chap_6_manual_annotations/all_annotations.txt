@@ -1,0 +1,176 @@
+doc_id	sen_id	token	type
+1	1	Fix	ACT
+1	1	wanting	TER
+1	1	tinge	TER
+1	1	self-conceit	TER
+1	2	scene	TER
+1	2	quay	TER
+1	2	animated	TER
+1	2	sailors	TER
+1	2	nations	TER
+1	2	merchants	TER
+1	2	ship-brokers	TER
+1	2	porters	TER
+1	2	fellahs	TER
+1	2	bustled	TER
+1	2	steamer	TER
+1	2	expected	TER
+1	3	weather	TER
+1	4	minarets	TER
+1	4	town	TER
+1	4	loomed	TER
+1	4	houses	TER
+1	4	rays	TER
+1	4	sun	TER
+1	5	pier	TER
+1	5	yards	TER
+1	5	extended	TER
+1	5	roadstead	TER
+1	6	fishing-smacks	TER
+1	6	boats	TER
+1	6	retaining	TER
+1	6	fashion	TER
+1	6	galleys	TER
+1	6	"Red Sea"	LOC
+1	7	passed	TER
+1	7	crowd	TER
+1	7	Fix	ACT
+1	7	habit	TER
+1	7	scrutinised	TER
+1	7	passers-by	TER
+1	7	glance	TER
+1	8	"half-past ten"	TER
+1	9	steamer	TER
+1	9	come	TER
+1	9	exclaimed	TER
+1	9	"port clock"	TER
+1	9	struck	TER
+1	10	returned	TER
+1	10	companion	TER
+1	11	stop	TER
+1	11	Suez	LOC
+1	12	hours	TER
+1	12	get	TER
+1	12	coal	TER
+1	13	miles	TER
+1	13	Suez	LOC
+1	13	Aden	LOC
+1	13	end	TER
+1	13	"Red Sea"	LOC
+1	13	"take in"	TER
+1	13	"coal supply"	TER
+1	14	go	TER
+1	14	Suez	LOC
+1	14	Bombay	LOC
+1	15	"putting in"	TER
+1	16	said	TER
+1	16	Fix	ACT
+1	17	robber	TER
+1	17	"get off"	TER
+1	17	Suez	LOC
+1	17	reach	TER
+1	17	colonies	TER
+1	17	Asia	LOC
+1	17	route	TER
+1	18	know	TER
+1	18	hour	TER
+1	18	India	LOC
+1	18	soil	TER
+1	19	objected	TER
+1	19	consul	TER
+1	20	criminal	TER
+1	20	know	TER
+1	20	London	LOC
+1	21	observation	TER
+1	21	furnished	TER
+1	21	detective	TER
+1	21	food	TER
+1	21	thought	TER
+1	21	consul	TER
+1	21	"went away"	TER
+1	21	office	TER
+1	22	Fix	ACT
+1	22	presentiment	TER
+1	22	robber	TER
+1	22	Mongolia	ORG
+1	23	London	LOC
+1	23	intending	TER
+1	23	reach	TER
+1	23	"New World"	LOC
+1	23	take	TER
+1	23	route	TER
+1	23	India	LOC
+1	23	watched	TER
+1	23	watch	TER
+1	23	Atlantic	LOC
+1	24	Fix	ACT
+1	24	reflections	TER
+1	24	interrupted	TER
+1	24	succession	TER
+1	24	whistles	TER
+1	24	announced	TER
+1	24	arrival	TER
+1	24	Mongolia	ORG
+1	25	porters	TER
+1	25	fellahs	TER
+1	25	"rushed down"	TER
+1	25	quay	TER
+1	25	dozen	TER
+1	25	boats	TER
+1	25	"pushed off"	TER
+1	25	shore	TER
+1	25	meet	TER
+1	25	steamer	TER
+1	26	hull	TER
+1	26	appeared	TER
+1	26	"passing along"	TER
+1	26	banks	TER
+1	26	"eleven o'clock"	DAT
+1	26	anchored	TER
+1	26	road	TER
+1	27	brought	TER
+1	27	number	TER
+1	27	passengers	TER
+1	27	remained	TER
+1	27	"on deck"	TER
+1	27	scan	TER
+1	27	panorama	TER
+1	27	town	TER
+1	27	part	TER
+1	27	disembarked	TER
+1	27	boats	TER
+1	27	landed	TER
+1	27	quay	TER
+1	28	Fix	ACT
+1	28	"took up"	TER
+1	28	position	TER
+1	28	examined	TER
+1	28	face	TER
+1	28	figure	TER
+1	28	made	TER
+1	28	appearance	TER
+1	29	passengers	TER
+1	29	pushing	TER
+1	29	way	TER
+1	29	crowd	TER
+1	29	porters	TER
+1	29	consulate	TER
+1	29	time	TER
+1	29	showing	TER
+1	29	passport	TER
+1	29	wished	TER
+1	29	visaed	TER
+1	30	Fix	ACT
+1	30	passport	TER
+1	30	glance	TER
+1	30	read	TER
+1	30	description	TER
+1	30	bearer	TER
+1	31	motion	TER
+1	31	surprise	TER
+1	31	escaped	TER
+1	31	description	TER
+1	31	passport	TER
+1	31	"bank robber"	TER
+1	31	received	TER
+1	31	"Scotland Yard"	ORG

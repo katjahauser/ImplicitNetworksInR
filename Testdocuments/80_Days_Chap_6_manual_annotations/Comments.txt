@@ -1,0 +1,23 @@
+#######################################
+Annotations: 
+#######################################
+
+The text is taken from chapter 6 of Jules Vernes' Around the World in 80 Days: "Mr. Fix evidently was not wanting in a tinge of self-conceit. ... An involuntary motion of surprise nearly escaped him, for the description in the passport was identical with that of the bank robber which he had received from Scotland Yard."
+
+As terms I chose nouns and full verbs (i.e. especially not auxillary verbs (e.g., "have" and "be" in "I have been reading the whole night." - auxillary verbs are generally used to construct grammatical forms, but have no meaning of their own when used this way.)). I ignored full verbs that can be auxillary verbs as well as full verbs (i.e. be, have, do, etc.).
+I converted the words to their nominative singular and infinitive, respectively, and removed the stopwords as found in stopwords::stopwords(). (See all_annotations_stemmed_wo_stopwords.txt)
+
+In the excerpt a steamer named "Mongolia" appears. I chose to categorize her as an organisation, as she does not stay in place (like a proper location would) and to avoid confusion with the country. 
+
+
+#######################################
+Algorigthm: 
+#######################################
+
+If not noted otherwise, the algorithm was executed manually as in load.R.
+
+Order of edges: 
+In the original algorithm edges are sorted alphabetically. I did the same, except for edges containing sentences and NEs, as it makes the handling easier. 
+
+Weights: 
+The weights of the network created by hand are rounded to four positions after the decimal. (To be precise: The summands were each rounded to four positions after the decimal and then summed.)
