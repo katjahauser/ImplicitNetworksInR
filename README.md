@@ -1,6 +1,6 @@
 # R Implementation of implicit network extraction
 
-(c) 2018 Katja Hauser, Andreas Spitz, Michael Gertz
+**(c) 2018 Katja Hauser, Andreas Spitz, Michael Gertz**
 
 **For details, see https://dbs.ifi.uni-heidelberg.de/resources/load/**
 
@@ -21,3 +21,5 @@ The entire collection of scripts can be executed as-is on the included example
 documents from Jules Verne's "In 80 Days Around the World" by calling:
 source("start_Pipeline.R"), but it is recommended to take a look at config.R
 first, which also contains a thorough documentation of the pipeline steps.
+
+**A note on maintenance:** I wrote these scripts during a student project in 2018. While they are currently (November 2021) working, they are not actively maintained and future changes in R might break them. 
