@@ -2,7 +2,7 @@
 
 (c) 2018 Katja Hauser, Andreas Spitz, Michael Gertz
 
-**For details, see https://dbs.ifi.uni-heidelberg.de/resources/load/ **
+**For details, see https://dbs.ifi.uni-heidelberg.de/resources/load/**
 
 This collection of scripts provides an R implemention of the load
 algorithm for the extraction of implicit networks, as described in:
